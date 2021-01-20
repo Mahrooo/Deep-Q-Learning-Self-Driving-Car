@@ -19,5 +19,5 @@ In this example, we aim to move the car to navigate between points A and B while
 In this example we form a more complicated road shape for the car. In this case, as you can see the rewards during the learning process, learning how to navigate between point A and B is challenging fot the car! 
 
 
-<img src="images/exm1_car.png" width=300> <img src="images/exm1_reward.png" width=360>
+<img src="images/exm1_env.png" width=300> <img src="images/exm1_reward.png" width=360>
 
